@@ -12,3 +12,5 @@ if (preco > 100) {
 } else {
     console.log(`O preço final do produto é: R$ ${preco}`); // Exibindo o preço final sem desconto no console.
 }
+
+console.log('Fim do programa.'); // Mensagem indicando o fim do programa.
