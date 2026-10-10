@@ -74,4 +74,5 @@ function visualizaHistorico() {
     })
 }
 
+
 menu();
